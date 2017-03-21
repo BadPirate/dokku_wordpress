@@ -1,1 +1,1 @@
-{ "require": { "hhvm": "3.2.0" } }
+{ "require": { "hhvm": "~3.2" } }
