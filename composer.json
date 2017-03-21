@@ -1,1 +1,4 @@
-{ "require": { "hhvm": "~3.2" } }
+{
+ 	"require": { "hhvm": "~3.2" },
+	"scripts": { "post-install-cmd": [ "chmod -R 777 wp-content" ] }
+}
